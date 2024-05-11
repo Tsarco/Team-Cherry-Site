@@ -1,0 +1,86 @@
+
+
+p.w {
+    font-size: 25px;
+    color: white;
+    position:absolute;
+    left:55px;
+    top: 18px;
+}
+
+h1{
+    color:white;
+    font-size:18px;
+}
+
+h2 {
+    color:white;
+    font-size:20px;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+h3 {
+    color:white;
+    font-size:24px;
+    text-decoration: underline;
+    text-decoration-color: white;
+    position:absolute;
+    left: 750px;
+
+}
+
+h4{
+    color: white;
+}
+
+h5.card-title{
+    font-size:32px;
+    color:crimson;
+
+}
+
+/*Coisas de Rodapé*/
+
+hr.rodape{ 
+    color:white;
+    height: 3px;
+    background-color: white;
+} 
+
+a.rod{
+    color: crimson;
+    font-size: 17px;
+    color: crimson;
+    font-family: "Trebuchet MS", arial, sans-serif;
+    
+}
+
+/*Lista de IDs gerais.*/
+
+#gen{
+    font-size: 15px;
+    color:white;
+}
+
+#t{
+    font-size: 17px;
+    color: crimson;
+    font-family: "Trebuchet MS", arial, sans-serif;
+}
+
+#home,#profile,#contact{
+    color: white;
+}
+
+#col1{
+    float: left;
+    width:40%;
+    font-family: arial;
+    font-size: 15px;
+    text-align: justify;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+} /*Fiz isso*/
